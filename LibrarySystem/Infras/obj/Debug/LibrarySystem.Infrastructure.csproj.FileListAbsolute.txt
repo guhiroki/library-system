@@ -1,0 +1,16 @@
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\LibrarySystem.Infrastructure.dll.config
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\LibrarySystem.Infrastructure.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\LibrarySystem.Infrastructure.pdb
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\EntityFramework.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\EntityFramework.xml
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\obj\Debug\LibrarySystem.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\obj\Debug\LibrarySystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\obj\Debug\LibrarySystem.Infrastructure.csproj.CopyComplete
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\obj\Debug\LibrarySystem.Infrastructure.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\obj\Debug\LibrarySystem.Infrastructure.pdb
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Infras\bin\Debug\System.Net.Http.Formatting.xml

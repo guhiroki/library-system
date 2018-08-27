@@ -1,0 +1,15 @@
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Domain.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Domain.pdb
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\obj\Debug\LibrarySystem.Domain.csprojAssemblyReference.cache
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\obj\Debug\LibrarySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\obj\Debug\LibrarySystem.Domain.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\obj\Debug\LibrarySystem.Domain.pdb
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Domain.dll.config
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\EntityFramework.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Infrastructure.dll
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Infrastructure.pdb
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\LibrarySystem.Infrastructure.dll.config
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\EntityFramework.xml
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gustavo Hiroki\source\repos\LibrarySystem\Domai\obj\Debug\LibrarySystem.Domain.csproj.CopyComplete
